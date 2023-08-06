@@ -26,7 +26,14 @@ h1, h2, h3 {
   background-color: #a4e4f1;
 }
 
-.q1--perimeter {
+.q1--perimeter-table{
+  width: 250px;
+  height: 150px;
+  margin: 0 auto 20px;
+  background-color: #a4e4f1;
+}
+
+.q1--perimeter-flex{
   width: 250px;
   height: 150px;
   margin: 0 auto 20px;
